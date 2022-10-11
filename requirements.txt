@@ -1,0 +1,9 @@
+torch
+torchaudio
+
+numpy
+tqdm
+tensorboard
+tensorboardX
+fairseq
+s3prl
