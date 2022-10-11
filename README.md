@@ -1,10 +1,10 @@
-## DiffVC
-# Diffusion Model for Voice Conversion
+# DiffVC
+## Diffusion Model for Voice Conversion
 
-1. requirements.txt module install
+      1. requirements.txt module install
 
-2. Preprocessing
-   ㄴpython preprocess.py /path/to/dir/containing/wavs
+      2. Preprocessing
+         ㄴpython preprocess.py /path/to/dir/containing/wavs
 
    ex) python preprocess.py DiffVC/sample/wavs
 
